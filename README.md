@@ -4,7 +4,7 @@ This repo contains a demo of a data logger for the [TandD](https://tandd.com), T
 
 The sensor can automatically upload to the free [TandD WebStorage Service](https://webstorage-service.com) or to a [Windows server application](https://tandd.com/software/td-data-server.html), but I wanted something with more flexibility and less Windows, so I developed my own server using [Python](https://www.python.org) [Flask](https://flask.palletsprojects.com/en/stable/)
 
-I documented my efforts on this project on [this blog post]()
+I documented my efforts on this project on [this blog post](https://www.nickgregorich.com/posts/reverse-engineering-a-temperature-and-humidity-logger/)
 
 ## Installation
 
